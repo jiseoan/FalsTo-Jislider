@@ -6,8 +6,6 @@
 	<!-- page loading -->
     <script type="text/javascript" src="js/pageloading.js"></script>
     
-	<link rel="stylesheet" type="text/css" href="css/nanumgothic.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="css/nanummyeongjo.css" media="screen" />
 	<style type="text/css">
     body {
 		background: #000;
