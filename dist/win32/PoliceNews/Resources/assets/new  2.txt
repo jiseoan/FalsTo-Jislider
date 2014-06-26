@@ -1,6 +1,0 @@
-=IF(ISBLANK('M1'!K10),"",CLEAN(TRIM('M1'!K10)))
-=IF(ISBLANK(A9),"",IF(ISBLANK('M1'!K10),"",IF(A9="</ul>","",IF(ISBLANK('M1'!K11),"</ul>",CLEAN(TRIM('M1'!K11))))))
-=IF(ISBLANK(A9),"",IF(A9="</ul>","",IF(ISBLANK('M1'!K11),"</ul>",CLEAN(TRIM('M1'!K11)))))
-=IF(ISBLANK(A9),"",IF(A9="</ul>","",IF(ISBLANK('M1'!K11),"</ul>",CLEAN(TRIM('M1'!K11)))))
-
-=IF(ISBLANK(A8),"",IF(A8="</ul>","",IF(ISBLANK('M1'!K10),CLEAN(TRIM('M1'!K10)),"</ul>")))
