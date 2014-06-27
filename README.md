@@ -1,3 +1,4 @@
-# PoliceNews App
+FalsTo-Jislider
+===============
 
-Simplest possible TideSDK desktop app demonstrating menus and PoliceNews.
+ImageSlider-Jislider
